@@ -22,7 +22,7 @@ A simple banking system implemented in 8086 assembly language, featuring user au
   - Error handling for large inputs/overflows.
 
 - **Transaction History**
-  - Stores up to 50 transactions.
+  - Stores up to 5 transactions.
   - Displays deposit/withdrawal history in receipts.
 
 ## How to Run
